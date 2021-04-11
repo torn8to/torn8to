@@ -4,11 +4,9 @@
 - 💞️ I’m looking to collaborate on nasaSRC challenge
 - 📫 you can reach me at nathanroger314@gmail.com don't expect quick replies 
 
-Languages i'm familiar with
-Python and java
+Languages i'm familiar with python java and C++
 
-languages i need more expirence with
-C++
+languages i need more expirence with nodejs
 
 
 <!---
