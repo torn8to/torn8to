@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @torn8toI usually go by Nathan Rogers
-- 👀 I’m interested in robotics, reading books and blogs, and running ( currently on hiatus due to posteror tendonitis ) so mostly Physical therapy
+- 👋 Hi, I’m @torn8to I usually go by Nathan Rogers
+- 👀 I’m interested in robotics, reading books and blogs, and running ( currently on hiatus due to posteror tendonitis ) so currently  Physical therapy wizard
 - 🌱 I’m currently learning Javasscript (I'am confusion)
 - 💞️ I’m looking to collaborate on nasaSRC challenge
 - 📫 you can reach me at nathanroger314@gmail.com don't expect quick replies 
 
-Languages i'm familiar with python java and C++
+Languages i'm proficient with java, Pyhton, C++
 
 languages i need more expirence with nodejs
 
