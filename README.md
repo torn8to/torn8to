@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @torn8to I usually go by Nathan Rogers, I'm currently attending WPI as a Robotics engineering  and Computer Science double major.
+- 👋 Hi, I’m @torn8to I usually go by Nathan Rogers, I'm currently attending WPI as a Robotics Engineeringg major.
 - 👀 I’m interested in robotics, reading books and blogs, and beach volleyball
 
 
-Languages i'm proficient with java, Pyhton, C++
+Languages i'm proficient with java, Python, C++
 
-languages i need more expirence with nodejs
+languages i need more experience with nodejs
 
 
 <!---
