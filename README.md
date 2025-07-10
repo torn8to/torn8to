@@ -1,6 +1,6 @@
+creater of the gazebo harmonic vacuum gripper plugin
+
+freelance hardware engineer specializing in building force sensitive sensors for building 
 
 
-<!---
-torn8to/torn8to is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+currently working on performant lidar odometry that works for long term performance over 
