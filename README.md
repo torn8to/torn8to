@@ -6,6 +6,7 @@
 
 **Gazebo Harmonic Vacuum Gripper Plugin**  
 *Advanced simulation tooling for robotic manipulation research*
+
 ![](vacuum_gripper_demo.gif)
 
 **Force-Sensitive Hardware Systems**  
