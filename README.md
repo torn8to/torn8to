@@ -1,7 +1,3 @@
-# Robotics Engineer & Hardware Specialist
-
-> *Building intelligent force-sensitive systems for next-generation robotics*
-
 ## What I Build
 
 **Gazebo Harmonic Vacuum Gripper Plugin**  
@@ -12,16 +8,13 @@
 **Force-Sensitive Hardware Systems**  
 Freelance hardware engineer specializing in custom sensor solutions that accelerate R&D for force-sensitive applications across industries.
 
-**R&D Acceleration**  
-Transforming experimental concepts into reliable, production-ready sensing systems.
-
-## Current Mission
+## Current freetime focus
 
 **High-Performance LiDAR Odometry**  
 *Real-time localization systems for autonomous mobile robots*
 ![](output.gif)  
 
-Developing optimized algorithms for precise robot localization in GPS-denied environments, focusing on computational efficiency and accuracy for real-world deployment.
+Developing optimized algorithms for precise robot localization focusing on easily configurable lidar pipelines that work on multiple sensor configurations
 
 ## Focus Areas
 
@@ -29,6 +22,4 @@ Developing optimized algorithms for precise robot localization in GPS-denied env
 - **Precision Engineering**: High-fidelity force measurement systems
 - **Autonomous Systems**: Mobile robot navigation and perception
 - **Algorithm Optimization**: Real-time performance-critical applications
-
-## Tech Stack
 
