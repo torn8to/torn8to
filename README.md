@@ -1,6 +1,38 @@
-creater of the gazebo harmonic vacuum gripper plugin
+# Robotics Engineer & Hardware Specialist
 
-freelance hardware engineer specializing in building force sensitive sensors to speed up R&D of force sensitive applications
+> *Building intelligent force-sensitive systems for next-generation robotics*
 
+## What I Build
 
-In my free time i'm working on performant lidar odometry to work on mobile robots 
+**Gazebo Harmonic Vacuum Gripper Plugin**  
+*Advanced simulation tooling for robotic manipulation research*
+
+**Force-Sensitive Hardware Systems**  
+Freelance hardware engineer specializing in custom sensor solutions that accelerate R&D for force-sensitive applications across industries.
+
+**R&D Acceleration**  
+Transforming experimental concepts into reliable, production-ready sensing systems.
+
+## Current Mission
+
+**High-Performance LiDAR Odometry**  
+*Real-time localization systems for autonomous mobile robots*
+
+Developing optimized algorithms for precise robot localization in GPS-denied environments, focusing on computational efficiency and accuracy for real-world deployment.
+
+## Focus Areas
+
+- **Hardware Development**: Custom sensor design and integration
+- **Precision Engineering**: High-fidelity force measurement systems
+- **Autonomous Systems**: Mobile robot navigation and perception
+- **Algorithm Optimization**: Real-time performance-critical applications
+
+## Tech Stack
+
+**Hardware:** PCB Design • Sensor Integration • Embedded Systems  
+**Software:** C++ • Python ROS/ROS2 • Gazebo  
+**Specialties:** Force Sensing • Real-time Systems
+
+## Philosophy
+
+*"Reliable sensing is the foundation of intelligent robotics"*
