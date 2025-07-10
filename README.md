@@ -6,6 +6,7 @@
 
 **Gazebo Harmonic Vacuum Gripper Plugin**  
 *Advanced simulation tooling for robotic manipulation research*
+![Alt text](vacuum_gripper_demo.gif)
 
 **Force-Sensitive Hardware Systems**  
 Freelance hardware engineer specializing in custom sensor solutions that accelerate R&D for force-sensitive applications across industries.
@@ -17,6 +18,7 @@ Transforming experimental concepts into reliable, production-ready sensing syste
 
 **High-Performance LiDAR Odometry**  
 *Real-time localization systems for autonomous mobile robots*
+![Alt text](output.gif)  
 
 Developing optimized algorithms for precise robot localization in GPS-denied environments, focusing on computational efficiency and accuracy for real-world deployment.
 
@@ -29,10 +31,3 @@ Developing optimized algorithms for precise robot localization in GPS-denied env
 
 ## Tech Stack
 
-**Hardware:** PCB Design • Sensor Integration • Embedded Systems  
-**Software:** C++ • Python ROS/ROS2 • Gazebo  
-**Specialties:** Force Sensing • Real-time Systems
-
-## Philosophy
-
-*"Reliable sensing is the foundation of intelligent robotics"*
